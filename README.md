@@ -52,6 +52,6 @@ Fitur Utama:
 
 ## Kontak
 
-Jika anda mempunyai kritik atau saran silahkan sampaikan ke ........
+Jika anda mempunyai kritik atau saran silahkan sampaikan ke ayuna.rachim@gmail.com
 
-		== TERIMA KASIH ==
+## Terima Kasih
