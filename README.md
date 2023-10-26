@@ -30,23 +30,22 @@ Fitur Utama:
 	- Buat Database baru dengan nama 'web_db'.
 	- Masuk ke Tab Import lalu unggah file 'web_db.sql' pada folder UAS/DATABASE.
 
-||=============================================================================||
-||                                                                             || 
-||                                                                             ||
-||                            !!! PERHATIAN !!!                                ||
-||                                                                             ||
-||           DIKARENAKAN WEBSITE BELUM MEMUAT RESPONSIVE SCRIPT YANG           ||
-||            MEMBUAT WEBSITE DAPAT MEMUNCULKAN TAMPILAN YANG SESUAI           ||
-||                    TERGANTUNG DARI DEVICE YANG DIGUNAKAN                    ||
-||                                                                             || 
-||                       MAKA DARI ITU SANGAT DISARANKAN                       ||
-||             UNTUK MENGAKSES WEBSITE MINIMAL PADA RESOLUSI LAYAR             ||
-||                                                                             ||
-||                            HD ATAU LEBAR 1280 PX                            ||
-||                                                                             ||
-||                             !!! TERIMA KASIH !!!                            ||
-||									       ||
-||=============================================================================||
+
+## Warning
+
+!!! PERHATIAN !!!
+
+DIKARENAKAN WEBSITE BELUM MEMUAT RESPONSIVE SCRIPT YANG
+MEMBUAT WEBSITE DAPAT MEMUNCULKAN TAMPILAN YANG SESUAI
+TERGANTUNG DARI DEVICE YANG DIGUNAKAN
+
+MAKA DARI ITU SANGAT DISARANKAN
+UNTUK MENGAKSES WEBSITE MINIMAL PADA RESOLUSI LAYAR
+
+HD ATAU LEBAR 1280 PX
+
+TERIMA KASIH
+
 
 6. Akses project web dengan mengakses http://localhost/uas/
 
