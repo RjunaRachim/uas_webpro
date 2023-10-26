@@ -47,7 +47,7 @@ HD ATAU LEBAR 1280 PX
 TERIMA KASIH
 
 
-6. Akses project web dengan mengakses http://localhost/uas/
+5. Akses project web dengan mengakses http://localhost/uas/
 
 ## Kontak
 
